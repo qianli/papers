@@ -4,9 +4,7 @@
 
 #### When Is Handcrafting Not a Curse?
 
-PDF:
-
-https://dspace.mit.edu/handle/1721.1/119833
+PDF: https://dspace.mit.edu/handle/1721.1/119833
 
 Zip:
 
