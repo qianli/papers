@@ -30,5 +30,8 @@ zip file pswd: fok8kf0lg974
 
 #### Human-like Learning: A Research Proposal
 
+PDF: https://dspace.mit.edu/handle/1721.1/111654
+
+PDF & Zip:
 https://github.com/qianli/humanlikelearn
 
