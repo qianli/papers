@@ -4,6 +4,12 @@
 
 #### When Is Handcrafting Not a Curse?
 
+PDF:
+
+https://dspace.mit.edu/handle/1721.1/119833
+
+Zip:
+
 https://github.com/qianli/handcrafted
 
 https://osf.io/j35ay/
@@ -11,6 +17,11 @@ https://osf.io/j35ay/
 zip file pswd: 7vv8kigi85kj
 
 #### Representations That Learn vs. Learning Representations
+
+PDF:
+https://dspace.mit.edu/handle/1721.1/119834
+
+Zip:
 
 https://github.com/qianli/reprelearn
 
