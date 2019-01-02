@@ -1,6 +1,6 @@
 # papers
 
-## Position Paper Triology 2017
+## Position Paper Trilogy 2017
 
 #### When Is Handcrafting Not a Curse?
 
